@@ -4,7 +4,7 @@ Created on Sat Jan 31 17:24:31 2026
 
 @author: nyinds
 """
-API='AIzaSyAvw8qPZzJGT0cDpw4IxKg7G7Vet6n3ljE'
+API=''
 from CLetter import generatecoverletter
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas

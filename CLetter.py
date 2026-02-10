@@ -9,7 +9,7 @@ writing cover letter
 from google import genai
 from google.genai import types
 from datetime import datetime
-API='AIzaSyAvw8qPZzJGT0cDpw4IxKg7G7Vet6n3ljE'
+API=''
 resume_highlights = """Resume Highlights:
 - Partnered with clients on statistical consulting projects using regression and machine learning; built reproducible pipelines in Python/R.
 - Built dashboards and visual reports (ggplot/matplotlib) to support client decision-making.
